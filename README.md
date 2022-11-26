@@ -4,6 +4,7 @@ Se han construido algoritmos de búsqueda generales aplicandolos a los escenario
 
 ## Uniformed Search Methods
 - **Breadth-First Search** (Búsqueda en anchura):
+
     Implementado en el archivo search.py
     Uso: `py pacman.py -l mediumMaze -p SearchAgent -a fn=bfs` 
 - **Depth-First Search** (Búsqueda en profundidad):
@@ -14,7 +15,7 @@ Se han construido algoritmos de búsqueda generales aplicandolos a los escenario
     Uso: `py pacman.py -l mediumDottedMaze -p StayEastSearchAgent`
 
 ## Iformed Search Methods
-- **A* Search** (Búsqueda A*):
+- **A star Search** (Búsqueda A*):
     Implementado en el archivo search.py
     Uso: `py pacman.py -l mediumDottedMaze -p StayEastSearchAgent`
 - **Búsqueda de todas las esquinas**:
