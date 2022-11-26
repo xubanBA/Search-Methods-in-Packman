@@ -13,7 +13,7 @@ Se han construido algoritmos de búsqueda generales aplicandolos a los escenario
 
     Implementado en el archivo search.py. Uso: `py pacman.py -l mediumDottedMaze -p StayEastSearchAgent`
 
-## Iformed Search Methods
+## Informed Search Methods
 - **A star Search** (Búsqueda A*):
 
     Implementado en el archivo search.py. Uso: `py pacman.py -l mediumDottedMaze -p StayEastSearchAgent`
