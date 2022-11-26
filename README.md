@@ -16,7 +16,7 @@ Se han construido algoritmos de búsqueda generales aplicandolos a los escenario
 ## Informed Search Methods
 - **A star Search** (Búsqueda A*):
 
-    Implementado en el archivo search.py. Uso: `py pacman.py -l mediumDottedMaze -p StayEastSearchAgent`
+    Implementado en el archivo search.py. Uso: `py pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar`
 - **Búsqueda de todas las esquinas**:
 
     Implementado en el archivo searchAgents.py. Uso: `py pacman.py -l mediumCorners -p SearchAgent -a fn=bfs,prob=CornersProblem`
